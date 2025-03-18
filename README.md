@@ -5,7 +5,6 @@ Welcome to the Data Projects TripleTen repository! This repository contains a co
 ## Table of Contents
 - [About](#about)
 - [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Contact](#contact)
@@ -30,34 +29,6 @@ Data_projects_TripleTen/
 │   └── documentation files
 └── README.md
 ````
-
-
-## Getting Started
-
-### Prerequisites
-- [Python 3.x](https://www.python.org/downloads/)
-- A SQL environment (e.g., MySQL, PostgreSQL) for SQL-based projects
-- Data visualization tools like Tableau or Power BI (if applicable)
-- Recommended Python libraries: pandas, numpy, matplotlib, etc.
-
-### Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/Data_projects_TripleTen.git
-   ```
-2. Navigate into the repository:
-   ```bash
-   cd Data_projects_TripleTen
-   ```
-3. *(Optional)* Create and activate a virtual environment:
-   ```bash
-   python3 -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
-4. Install any required packages (if applicable):
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 Each project folder contains its own data, code, and documentation. Please refer to the individual project README files for detailed instructions on running scripts or analyzing notebooks.
