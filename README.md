@@ -17,11 +17,11 @@ Below is the directory tree for the repository:
 
 ```text
 Data_projects_TripleTen/
-├── project1/
+├── projectname/
 │   ├── data/
 │   ├── notebooks/
 │   └── README.md
-├── project2/
+├── projectname/
 │   ├── data/
 │   ├── notebooks/
 │   └── README.md
