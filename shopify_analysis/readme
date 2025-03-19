@@ -6,8 +6,8 @@ This project analyzes data from the Shopify App Store to uncover key factors dri
 
 Project Components:
 -------------------
-1. **Data Files:**
-   - **shopify.xlsx:** Contains four tables:
+1. **Data Files:** 
+   - **shopify.xlsx:** Contains four tables: (Note: Due to file size restrictions, this file is not provided.)
      - `apps`: App details (e.g., app name, developer, review count, average rating)
      - `apps_categories`: Join table connecting apps to their categories
      - `categories`: App categories
