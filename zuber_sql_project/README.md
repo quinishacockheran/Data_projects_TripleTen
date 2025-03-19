@@ -2,7 +2,8 @@ README: Zuber SQL Project
 
 Project Overview:
 -----------------
-This project is an analytical case study for Zuber, a new ride-sharing company launching in Chicago. The objective is to analyze taxi ride data and weather records to uncover patterns in ride frequency, understand passenger preferences, and assess the impact of weather conditions on ride performance.
+This project is an analytical case study for Zuber, a new ride-sharing company launching in Chicago. The objective is to analyze taxi ride data and weather records to uncover patterns in ride frequency, understand passenger preferences, and assess the impact of weather conditions on ride performance.  
+The detailed analysis and testing were done on the TripleTen platform, and the sql_queries file contains the key queries that I ran successfully.  
 
 Project Components:
 -------------------
