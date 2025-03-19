@@ -56,6 +56,4 @@ Contact Information:
 Project Lead: Quinisha Cockheran  
 LinkedIn: [Quinisha Cockheran](https://www.linkedin.com/in/quinisha-cockheran)
 
-=============================================
 End of README
-=============================================
