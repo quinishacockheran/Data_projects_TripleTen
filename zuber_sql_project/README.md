@@ -1,6 +1,6 @@
-===================================================
+===============================================
 README: Zuber SQL Project
-===================================================
+===============================================
 
 Project Overview:
 -----------------
@@ -51,14 +51,13 @@ Key Findings & Recommendations:
 
 How to Use the Project Files:
 -----------------------------
-- **SQL Queries:** Deatiled analysis and testing were done on the TripleTen platform, and the file here contains the key queries that I ran succesfully.
-- **Documentation:** Project theory, tasks.
+- Open and view files. This project was completed successfully on the TripleTen platform.
 
 Contact Information:
 --------------------
 Project Lead: Quinisha Cockheran  
 LinkedIn: [Quinisha Cockheran](https://www.linkedin.com/in/quinisha-cockheran)
 
-===================================================
+===============================================
 End of README
-===================================================
+===============================================
