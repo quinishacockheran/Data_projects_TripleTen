@@ -1,4 +1,4 @@
--- Task 1:
+## -- Task 1:
 -- Print the company_name field and count the number of taxi rides for each taxi company
 -- for November 15-16, 2017. The count is named as trips_amount and the results are
 -- sorted in descending order by trips_amount.
@@ -19,7 +19,7 @@ GROUP BY
 order BY
     trips_amount DESC;  
 
--- Task 2:
+## -- Task 2:
 -- Find the number of rides for every taxi company whose name contains the words "Yellow" OR "Blue"
 -- for November 1-7, 2017. The resulting COUNT is named trips_amount AND the results are grouped BY company_name.
 
@@ -36,7 +36,7 @@ WHERE
 GROUP BY
     cabs.company_name;  
 
--- Task 3:
+## -- Task 3:
 -- For November 1-7, 2017, the most popular taxi companies were Flash Cab and Taxi Affiliation Services.
 -- Find the number of rides for these two companies (naming the count trips_amount)
 -- and group all other companies under the label "Other."
@@ -88,7 +88,7 @@ GROUP BY
 ORDER BY
     trips_amount DESC;  
 
--- Task 4:
+## -- Task 4:
 -- Retrieve the identifiers and names for the O'Hare and Loop neighborhoods from the neighborhoods table.
 SELECT
     neighborhood_id,
@@ -98,7 +98,7 @@ FROM
 WHERE
     name = 'O''Hare' OR name = 'Loop';  
 
--- Task 5:
+## -- Task 5:
 -- For each hour, retrieve the weather condition records from the weather_records table.
 -- Using the CASE operator, label the weather as 'Bad' if the description contains 'rain' or 'storm'
 -- and as 'Good' for all other conditions.
@@ -113,7 +113,7 @@ SELECT
 FROM
     weather_records;  
 
--- Task 6:
+## -- Task 6:
 -- Retrieve from the trips table all rides that started in the Loop (pickup_location_id: 50) on a Saturday
 -- and ended at O'Hare (dropoff_location_id: 63). For each ride, retrieve:
 --   1. start_ts (ride start timestamp)
