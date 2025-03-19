@@ -25,7 +25,6 @@ Project Components:
 
 3. **Documentation:**
    - This README file.
-   - Inline comments within the SQL scripts (e.g., `queries.sql`) explaining each step of the analysis.
    - Additional documentation detailing table relationships and analysis workflow.
 
 Methodology:
