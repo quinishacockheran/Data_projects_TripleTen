@@ -31,6 +31,9 @@ Project Components:
    - The interactive dashboard has been published on Tableau Public.
    - **Link:** [https://public.tableau.com/app/profile/quinisha.cockheran/viz/superstore_data_visualization_project/Sprint4SuperstoreProject]
 
+4. **Data Visualization Rubric:**
+   - The rubric provided by TripleTen for the project's approval.
+
 Methodology:
 ------------
 1. **Data Preparation:**
