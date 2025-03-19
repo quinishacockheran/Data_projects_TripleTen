@@ -27,7 +27,7 @@ Project Components:
      - **Reviews Answered by Developer:** Filtered bar chart showcasing developers with high review counts and their response rates.
 
 3. **Power BI File:**
-   - The `ShopifyAppAnalysis.pbix` file is used to build and view the interactive report. (Note: Due to file size restrictions, this file may be provided separately.)
+   - The `ShopifyAppAnalysis.pbix` file is used to build and view the interactive report. (Note: Due to file size restrictions, this file is not provided.)
 
 4. **Documentation & Screenshots:**
    - Final analysis report and supporting screenshots (if using the screenshot view).
@@ -51,11 +51,6 @@ Key Insights & Recommendations:
 
 How to Use the Project Files:
 -----------------------------
-- **Power BI View:**
-  1. Download the `ShopifyAppAnalysis.pbix` file.
-  2. Open it using Power BI Desktop.
-  3. Navigate through the report pages to explore the visualizations and insights.
-- **Screenshot View:**
   1. Download and extract the `ShopifyProjectAnalysis.zip` file.
   2. Browse the screenshots to review each section's visualizations and analysis.
 
