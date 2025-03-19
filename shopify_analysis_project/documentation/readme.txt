@@ -8,7 +8,7 @@ This project analyzes data from the Shopify App Store to uncover key factors dri
 
 Project Components:
 -------------------
-1. **Data Files:**
+1. **Data Files:** (Note: Due to size restrictions, this file is not included.)  
    - **shopify.xlsx:** Contains four tables:
      - `apps`: App details (e.g., app name, developer, review count, average rating)
      - `apps_categories`: Join table connecting apps to their categories
@@ -28,8 +28,8 @@ Project Components:
      - **Helpful Reviews by Developer:** Bar chart illustrating average helpfulness of reviews for each developer.
      - **Reviews Answered by Developer:** Filtered bar chart showcasing developers with high review counts and their response rates.
 
-3. **Power BI File:**
-   - The `ShopifyAppAnalysis.pbix` file is used to build and view the interactive report. (Note: Due to size restrictions, this file is not included.)  
+3. **Power BI File:** (Note: Due to size restrictions, this file is not included.)  
+   - The `ShopifyAppAnalysis.pbix` file is used to build and view the interactive report.
 
 4. **Documentation & Screenshots:**
    - Final analysis report and supporting screenshots (if using the screenshot view).
