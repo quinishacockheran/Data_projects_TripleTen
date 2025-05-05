@@ -1,5 +1,5 @@
 --------------------
-README: Storytelling with Data: Project
+README: Superstore Return Analysis - Storytelling with Data: Project
 --------------------
 
 Project Overview:
